@@ -9,3 +9,6 @@ Support [PayPal](https://paypal.me/margetic)
 2) Not all features are working atm.
 
 ![Countdown for Video Streaming Events](https://raw.githubusercontent.com/gogo1207/Countdown/master/countdown.jpg)
+
+### Download
+[Download](https://github.com/gogo1207/Countdown-Live-Video-Streaming/releases)
