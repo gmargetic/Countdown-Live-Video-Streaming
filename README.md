@@ -1,3 +1,5 @@
+## Licensed under the EUPL
+
 # Countdown
 Countdown for Video Streaming Events
 
